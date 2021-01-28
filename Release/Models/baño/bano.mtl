@@ -1,0 +1,86 @@
+newmtl WC:Indeliu
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 9c630acf1a8caf7951d07dcb0df474e24240f43f_00.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Kriaukles
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd istockphoto-1055591298-170667a.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Muilas1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd textura-verde-del-tablero-de-la-tela-terciopelo-como-fondo-127127579.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl WC:Mygtuko
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Siena
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Vazos
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Veidrodis1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+map_Kd d9ecee24d6100c064fd98547c6e1ca4b.jpg
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 0.06
+newmtl WC:WC
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd free-vector-metal-textura.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl WC:Wc2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+map_Kd 465355beec67ee00c81e84829861608b.png
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 0.06
+newmtl WC:wc
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

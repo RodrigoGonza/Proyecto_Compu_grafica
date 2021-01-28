@@ -1,0 +1,2733 @@
+newmtl gravity:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gravity:initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gravity:initialShadingGroup4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gravity:initialShadingGroup6
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl gravity:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mar.jpg
+Ni 1.00
+newmtl gravity:lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-de-los-ladrillos-rojos-14217106.jpg
+Ni 1.00
+newmtl gravity:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco_resta.jpg
+Ni 1.00
+newmtl gravity:lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:lambert4SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tierra.jpg
+Ni 1.00
+newmtl gravity:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vent_rest.png
+Ni 1.00
+newmtl gravity:lambert5SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_resta.png
+Ni 1.00
+newmtl gravity:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra.jpg
+Ni 1.00
+newmtl gravity:lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_gris.jpg
+Ni 1.00
+newmtl gravity:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd anuncio.png
+Ni 1.00
+newmtl gravity:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd amarillo.jpg
+Ni 1.00
+newmtl gravity:lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lamina.jpg
+Ni 1.00
+newmtl gravity:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_tienda.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-de-los-ladrillos-rojos-14217106.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert2SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__lambert3SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd film-adhesif-vitrage-aspect-lacte.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__lambert3SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mar.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mar.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__lambert3SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert3SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd b90ce2bf2fbb36fd3257eae38353a48c.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert4SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__lambert4SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__lambert4SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vent_rest.png
+Ni 1.00
+newmtl gravity:pasted__lambert5SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vent_rest.png
+Ni 1.00
+newmtl gravity:pasted__lambert5SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd viejo-rojo-naranja-resistido-fondo-textura-tejas-techo_52137-26746.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vent_rest.png
+Ni 1.00
+newmtl gravity:pasted__lambert5SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert5SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__lambert7SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__lambert7SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert7SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillos_cafe.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert8SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert9SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe_claro.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert9SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_verde.png
+Ni 1.00
+newmtl gravity:pasted__lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd morado.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert10SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd amarillo.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert11SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert11SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_clara.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert12SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_via.jpg
+Ni 1.00
+newmtl gravity:pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_tienda.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-de-los-ladrillos-rojos-14217106.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_tienda.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert2SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd film-adhesif-vitrage-aspect-lacte.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_muelle.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert3SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd mar.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd b90ce2bf2fbb36fd3257eae38353a48c.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert4SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG33
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd viejo-rojo-naranja-resistido-fondo-textura-tejas-techo_52137-26746.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG50
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG54
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG56
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG60
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG62
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG64
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG66
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG70
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG86
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG88
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG90
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG92
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG94
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG96
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG102
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert5SG104
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert6SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert6SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert7SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert8SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert8SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillos_cafe.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert8SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert8SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert9SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe_claro.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert10SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd morado.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert11SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert11SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert12SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_clara.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert12SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_clara.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert2SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert2SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ventana_blanca.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert2SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared_tienda.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd film-adhesif-vitrage-aspect-lacte.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert3SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd maderaGris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd b90ce2bf2fbb36fd3257eae38353a48c.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert4SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG17
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG22
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG27
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG28
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG29
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG33
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG34
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG35
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG36
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG37
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG38
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd viejo-rojo-naranja-resistido-fondo-textura-tejas-techo_52137-26746.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG40
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG41
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG42
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG43
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG45
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG46
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG48
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG71
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG73
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG79
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG81
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG83
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG84
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG86
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG89
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG90
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG91
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG106
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert5SG139
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisogris.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert6SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techo.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd banqueta.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert7SG31
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_piso.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert8SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillos_cafe.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert8SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert8SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_rosa.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert9SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cafe_claro.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert10SG15
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert10SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert10SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert11SG11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert13SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert3SG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vidrio.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert4SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd b90ce2bf2fbb36fd3257eae38353a48c.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert4SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert4SG19
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd puerta_tienda.png
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert4SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd b90ce2bf2fbb36fd3257eae38353a48c.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert4SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_roja.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG21
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG23
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG26
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG39
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd viejo-rojo-naranja-resistido-fondo-textura-tejas-techo_52137-26746.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG47
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG49
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG71
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG73
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG75
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG77
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG79
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG81
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG83
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG85
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG87
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG91
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG93
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG95
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG101
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG105
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG110
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG112
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG114
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG116
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG118
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG120
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG122
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG124
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert5SG126
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd viejo-rojo-naranja-resistido-fondo-textura-tejas-techo_52137-26746.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert7SG20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombra2.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert10SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert10SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_escalera.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert11SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert11SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert11SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__lambert11SG9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG75
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG76
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG91
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG93
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG95
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG98
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG101
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert5SG105
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert11SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__lambert11SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd closet.jpg
+Ni 1.00
+newmtl gravity:pasted__pasted__pasted__pasted__pasted__pasted__lambert5SG76
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sombrilla.jpg
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lago.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arbol.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cielo.jpg
+Ni 1.00
+newmtl pasted__lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arbol.jpg
+Ni 1.00
