@@ -1,0 +1,115 @@
+newmtl FBXASC051DGeomFBXASC1269SG
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12610SG
+illum 4
+Kd 0.16 0.16 0.16
+Ka 0.08 0.08 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12611SG
+illum 4
+Kd 0.16 0.16 0.16
+Ka 0.08 0.08 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12621SG
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12622SG
+illum 4
+Kd 0.16 0.16 0.16
+Ka 0.08 0.08 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12625SG
+illum 4
+Kd 0.29 0.29 0.29
+Ka 0.15 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.15 0.15
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12626SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12627SG
+illum 4
+Kd 0.29 0.33 0.39
+Ka 0.14 0.16 0.19
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.16 0.19
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12628SG
+illum 4
+Kd 0.19 0.19 0.19
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 18.00
+newmtl FBXASC051DGeomFBXASC12656SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 465355beec67ee00c81e84829861608b.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd free-vector-metal-textura.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 465355beec67ee00c81e84829861608b.png
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pdppAx4.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd d9ecee24d6100c064fd98547c6e1ca4b.jpg
+Ni 1.00
