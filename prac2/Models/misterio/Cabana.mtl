@@ -1,0 +1,90 @@
+newmtl Cabana:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Cabana:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-de-madera-tejada-del-tejado-de-la-tabla-63615586.jpg
+Ni 1.00
+newmtl Cabana:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pared-del-registro-del-pino-29108717.jpg
+Ni 1.00
+newmtl Cabana:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 66c8f61e21df99ea7e8fa1986a8868c8.jpg
+Ni 1.00
+newmtl Cabana:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-fondo-piso-ladrillo_40015-471.jpg
+Ni 1.00
+newmtl Cabana:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 89088462-textura-de-madera-marrón-fondo-abstracto-de-la-textura-de-madera-.jpg
+Ni 1.00
+newmtl Cabana:lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd d4cd256f6a19119ae9fa0ff434cb7b74.jpeg
+Ni 1.00
+newmtl Cabana:lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 90547168-textura-roja-con-manchas-brillantes-de-ruido-de-color-aleatorio-útil-como-fondo-de-navidad.jpg
+Ni 1.00
+newmtl Cabana:lambert10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd depositphotos_35419873-stock-photo-grunge-window-frame.jpg
+Ni 1.00
+newmtl Cabana:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd be676a2e83bb257aa513c1c21e0db3e2.jpg
+Ni 1.00
+newmtl Cabana:lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2002-2H.jpg
+Ni 1.00
+newmtl Cabana:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-acanalada-del-metal-43155965.jpg
+Ni 1.00
+newmtl Cabana1:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd be676a2e83bb257aa513c1c21e0db3e2.jpg
+Ni 1.00
